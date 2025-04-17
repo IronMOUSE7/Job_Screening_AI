@@ -1,7 +1,7 @@
 streamlit
-PyMuPDF
 pandas
 numpy
-scikit-learn
-openai
 sentence-transformers
+transformers
+scikit-learn
+email-validator
