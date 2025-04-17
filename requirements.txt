@@ -5,3 +5,4 @@ sentence-transformers
 transformers
 scikit-learn
 email-validator
+PyMuPDF
